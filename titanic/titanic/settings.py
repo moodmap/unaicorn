@@ -25,7 +25,7 @@ SECRET_KEY = '2-yyj=7&f3!exp(9ym!r%-yfa+lr%u7klz21yx-!0mi#qv-@32'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['3.9.175.150','unaicorn.com','www.unaicorn.com']
 
 
 # Application definition
